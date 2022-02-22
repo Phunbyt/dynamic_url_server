@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "Blacknetter4102$",
-    "database": "dynamic_url",
-    "host": "127.0.0.1",
+    "username": "seumhyzxyvculu",
+    "password": "f11e1b0478f93d83e51a4561681f16a1098a89dfc9f2dce6d800bb10a0dfcecd",
+    "database": "d5v73shvi5v9li",
+    "host": "ec2-3-219-204-29.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "seumhyzxyvculu",
+    "password": "f11e1b0478f93d83e51a4561681f16a1098a89dfc9f2dce6d800bb10a0dfcecd",
+    "database": "d5v73shvi5v9li",
+    "host": "ec2-3-219-204-29.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "seumhyzxyvculu",
+    "password": "f11e1b0478f93d83e51a4561681f16a1098a89dfc9f2dce6d800bb10a0dfcecd",
+    "database": "d5v73shvi5v9li",
+    "host": "ec2-3-219-204-29.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
 }
